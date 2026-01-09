@@ -25,7 +25,7 @@ Este repositorio no contiene solo HTML y CSS; contiene la cuenta regresiva más 
 - [x] Conocer a Miranda.
 - [x] Iniciar la aventura a distancia.
 - [x] Crear este sitio web.
-- [ ] **Despliegue a Producción (El Reencuentro - 2027).**
+- [ ] **Despliegue a Producción (Vernos por primera vez - 2027).**
 
 ---
 Desarrollado con ❤️ por **Sebastian** para **Miranda**.
