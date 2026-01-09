@@ -11,7 +11,7 @@ Este repositorio no contiene solo HTML y CSS; contiene la cuenta regresiva más 
 
 ## 🚀 Features (Características)
 * **📍 Sistema de Rastreo Sentimental:** Mapa interactivo conectando nuestras ciudades.
-* **⏳ Time Travel Engine:** Un contador en tiempo real sincronizado hasta nuestro reencuentro en julio de 2027.
+* **⏳ Time Travel Engine:** Un contador en tiempo real sincronizado hasta conocernos en julio de 2027.
 * **🎵 Soundtrack de Vida:** Una galería visual con nuestra playlist especial oculta.
 * **🔒 Mensajes Encriptados:** Contenido exclusivo que solo se desbloquea... cuando estemos juntos.
 
